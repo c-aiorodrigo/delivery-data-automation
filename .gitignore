@@ -1,0 +1,5 @@
+venv/
+__ptcache__/
+*.xlsx
+.env
+Relatorios_Gerados/
