@@ -3,3 +3,7 @@ __ptcache__/
 *.xlsx
 .env
 Relatorios_Gerados/
+build/
+dist/
+*.exe
+*.pkg
